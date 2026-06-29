@@ -1,0 +1,374 @@
+canonical_identifier: bkk:krp/KR3ej054/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej054/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 麻疹備要方論
+  identifiers:
+    krp: KR3ej054
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej054.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej054_000-jc.yaml, hash: 'sha256:5bde16e32debb5766248d692a3e9f282c7f591e63632dc48ab8c69bdd76cbc9d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej054_000-jc.markers.yaml, hash: 'sha256:833e7c5fff093ee1650fdcf8760fb111daabf734a80ad06d459e8181ca012cfd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 232
+  label: 吳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 349
+  label: 原始論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d4.h1s1
+    span:
+    - body
+    - 349
+    - 467
+  label: 疹脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d5.h1s1
+    span:
+    - body
+    - 467
+    - 952
+  label: 辨症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d6.h1s1
+    span:
+    - body
+    - 952
+    - 1239
+  label: 初熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d7.h1s1
+    span:
+    - body
+    - 1239
+    - 2049
+  label: 疹治合時
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d8.h1s1
+    span:
+    - body
+    - 2049
+    - 2899
+  label: 見形論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d9.h1s1
+    span:
+    - body
+    - 2899
+    - 4240
+  label: 收沒論治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10.h1s1
+    span:
+    - body
+    - 4240
+    - 7692
+  label: 分論麻疹始終雜症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d2
+    span:
+    - body
+    - 4248
+    - 4722
+  label: 發熱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d3
+    span:
+    - body
+    - 4722
+    - 4773
+  label: 身冷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d4
+    span:
+    - body
+    - 4773
+    - 4927
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d5
+    span:
+    - body
+    - 4927
+    - 5065
+  label: 氣喘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d6
+    span:
+    - body
+    - 5065
+    - 5172
+  label: 氣促
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d7
+    span:
+    - body
+    - 5172
+    - 5269
+  label: 嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d8
+    span:
+    - body
+    - 5269
+    - 5366
+  label: 吐下蛔蟲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d9
+    span:
+    - body
+    - 5366
+    - 5450
+  label: 煩渴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d10
+    span:
+    - body
+    - 5450
+    - 5530
+  label: 譫妄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d11
+    span:
+    - body
+    - 5530
+    - 5651
+  label: 發搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d12
+    span:
+    - body
+    - 5651
+    - 5762
+  label: 飲食
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d13
+    span:
+    - body
+    - 5762
+    - 5901
+  label: 目疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d14
+    span:
+    - body
+    - 5901
+    - 6093
+  label: 鼻症
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d15
+    span:
+    - body
+    - 6093
+    - 6461
+  label: 口舌牙喉病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d16
+    span:
+    - body
+    - 6461
+    - 6628
+  label: 論汗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d17
+    span:
+    - body
+    - 6628
+    - 6710
+  label: 腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d18
+    span:
+    - body
+    - 6710
+    - 7037
+  label: 泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d19
+    span:
+    - body
+    - 7037
+    - 7197
+  label: 痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d20
+    span:
+    - body
+    - 7197
+    - 7286
+  label: 大小便閉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d21
+    span:
+    - body
+    - 7286
+    - 7413
+  label: 沉睡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d22
+    span:
+    - body
+    - 7413
+    - 7493
+  label: 麻疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d23
+    span:
+    - body
+    - 7493
+    - 7563
+  label: 妊娠出疹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d24
+    span:
+    - body
+    - 7563
+    - 7630
+  label: 蓋痘疹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d10d25
+    span:
+    - body
+    - 7630
+    - 7692
+  label: 癮疹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d11.h1s1
+    span:
+    - body
+    - 7692
+    - 7872
+  label: 禁忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej054_jc_000-d12.h1s1
+    span:
+    - body
+    - 7872
+    - 10517
+  label: 麻疹備用諸方
+  type: section
+  level: 1
+hash: sha256:61e937594c430c53a1a9bf5df277944bcec4ac0b0d7cdd68b4b9d3cc1f112b19
