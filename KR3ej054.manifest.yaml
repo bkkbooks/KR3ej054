@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej054_000.yaml, hash: 'sha256:5356504f420146c3ea3c2d9c9ec2f73659063675680f87907c958c307a762c49'}
+  - {seq: 0, filename: KR3ej054_000.yaml, hash: 'sha256:5bde16e32debb5766248d692a3e9f282c7f591e63632dc48ab8c69bdd76cbc9d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej054_000.markers.yaml, hash: 'sha256:cf00d9746afd9e26875efa02015b06c8fc7840a181f66d4726e4edf9bb10bab9'}
+  - {seq: 0, role: markers, filename: assets/KR3ej054_000.markers.yaml, hash: 'sha256:ca2b1afa43d7e63d31b2614a6a186d7cae4cda9a91ba0c75c183d5392ea2d5b9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,7 +371,4 @@ table_of_contents:
   label: 麻疹備用諸方
   type: section
   level: 1
-hash: sha256:de088f580a350ba53b673863bb5508b2cd7d5570da34bfe77eed9055c1a2678f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:52ad8aeee0f7af77e777b3a2a8489d3dea1531103bc1de556ac19819aef42d5b
