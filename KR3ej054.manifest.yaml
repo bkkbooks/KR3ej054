@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej054/v1
 canonical_location: https://kanripo.org/bkk/KR3ej054/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 麻疹備要方論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej054_000.yaml, hash: 'sha256:5bde16e32debb5766248d692a3e9f282c7f591e63632dc48ab8c69bdd76cbc9d'}
+  - {seq: 0, filename: KR3ej054_000.yaml, hash: 'sha256:69ff03e109fef4792d3d61e43bd6b95028a229a37e7afa589e3c01b5dba5b163'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej054_000.markers.yaml, hash: 'sha256:ca2b1afa43d7e63d31b2614a6a186d7cae4cda9a91ba0c75c183d5392ea2d5b9'}
+  - {seq: 0, role: markers, filename: assets/KR3ej054_000.markers.yaml, hash: 'sha256:eea6d21d2eb38c58797e650c1241fdbecc280fce2729c59e5b0f1303fb3e05a2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,4 +371,7 @@ table_of_contents:
   label: 麻疹備用諸方
   type: section
   level: 1
-hash: sha256:52ad8aeee0f7af77e777b3a2a8489d3dea1531103bc1de556ac19819aef42d5b
+hash: sha256:6e874cf780e7dfccf2061ad39461e023c88edfcdd07b666051e7c525c80c20e1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
