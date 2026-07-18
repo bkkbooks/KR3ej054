@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej054_000-jc.yaml, hash: 'sha256:5bde16e32debb5766248d692a3e9f282c7f591e63632dc48ab8c69bdd76cbc9d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej054_000-jc.markers.yaml, hash: 'sha256:833e7c5fff093ee1650fdcf8760fb111daabf734a80ad06d459e8181ca012cfd'}
+  - {seq: 0, role: markers, filename: assets/KR3ej054_000-jc.markers.yaml, hash: 'sha256:9333fe33952637e82690815d15ffcab92347bfd22db59556310e905944aeb6a6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,4 +371,4 @@ table_of_contents:
   label: 麻疹備用諸方
   type: section
   level: 1
-hash: sha256:61e937594c430c53a1a9bf5df277944bcec4ac0b0d7cdd68b4b9d3cc1f112b19
+hash: sha256:b604d49a75eb97a4d0867ed3b9c92277784f3affb03332391ebf79acfce1ce58
